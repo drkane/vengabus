@@ -1,0 +1,1556 @@
+[{
+		"gig_id": "352817",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2016-12-27 00:30:00",
+		"date_end": "2016-12-27 01:00:00",
+		"virtual_date_start": "2016-12-26 00:30:00",
+		"virtual_date_end": "2016-12-26 01:00:00",
+		"publish_date": "2016-10-19 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Discothek A4",
+			"address": "K\u00f6lnerstrasse 7",
+			"city": "Olpe",
+			"state": "",
+			"postal": "57462",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.0289",
+				"longitude": "7.84375"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-29 07:49:00"
+	}, {
+		"gig_id": "333058",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-01-22 00:30:00",
+		"date_end": "2017-01-22 01:10:00",
+		"virtual_date_start": "2017-01-21 00:30:00",
+		"virtual_date_end": "2017-01-21 01:10:00",
+		"publish_date": "2016-07-15 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Turbinenhalle Oberhausen",
+			"address": "Im Lipperfeld 23",
+			"city": "Oberhausen",
+			"state": "",
+			"postal": "46047",
+			"country": "DE",
+			"website": "http:\/\/www.turbinenhalle.de",
+			"phone": "+49 208 46849931",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.4839",
+				"longitude": "6.86554"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-12-12 15:19:00"
+	}, {
+		"gig_id": "347378",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-01-28 23:50:00",
+		"date_end": "2017-01-29 01:40:00",
+		"virtual_date_start": "2017-01-28 23:50:00",
+		"virtual_date_end": "2017-01-28 01:40:00",
+		"publish_date": "2016-09-09 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Electric Ballroom",
+			"address": "Georges Street",
+			"city": "Drogheda",
+			"state": "Co Louth",
+			"postal": "",
+			"country": "IE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "53.7163",
+				"longitude": "-6.35712"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-12-13 15:32:00"
+	}, {
+		"gig_id": "299291",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-02-01 21:00:00",
+		"date_end": "2017-02-01 21:40:00",
+		"virtual_date_start": "2017-02-01 21:00:00",
+		"virtual_date_end": "2017-02-01 21:40:00",
+		"publish_date": "2016-07-01 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Hausbrauerei Altstadthof Schmelztiegel",
+			"address": "Bergstrasse 19 21",
+			"city": "N\u00fcrnberg",
+			"state": "",
+			"postal": "90403",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "49.457",
+				"longitude": "11.0749"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-09-22 12:04:00"
+	}, {
+		"gig_id": "352531",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-02-04 22:00:00",
+		"date_end": "2017-02-05 01:00:00",
+		"virtual_date_start": "2017-02-04 22:00:00",
+		"virtual_date_end": "2017-02-04 01:00:00",
+		"publish_date": "2016-10-04 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Arenile di Bagnoli",
+			"address": "Via Corogli 14B",
+			"city": "Napels",
+			"state": "",
+			"postal": "80124",
+			"country": "IT",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "40.8134",
+				"longitude": "14.1667"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-20 12:27:00"
+	}, {
+		"gig_id": "299193",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-02-11 23:00:00",
+		"date_end": "2017-02-12 01:00:00",
+		"virtual_date_start": "2017-02-11 23:00:00",
+		"virtual_date_end": "2017-02-11 01:00:00",
+		"publish_date": "2016-04-27 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Alfred Fischer Halle",
+			"address": "Sachsenweg 10",
+			"city": "Hamm",
+			"state": "",
+			"postal": "59073",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.7059",
+				"longitude": "7.82292"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-12-12 15:24:00"
+	}, {
+		"gig_id": "372534",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-02-16 20:00:00",
+		"date_end": "2017-02-17 01:00:00",
+		"virtual_date_start": "2017-02-16 20:00:00",
+		"virtual_date_end": "2017-02-16 01:00:00",
+		"publish_date": "2016-11-30 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Camp and Furnace",
+			"address": "67 Greenland Street",
+			"city": "Liverpool",
+			"state": "",
+			"postal": "",
+			"country": "GB",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "53.395",
+				"longitude": "-2.97843"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-29 15:24:00"
+	}, {
+		"gig_id": "372535",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-02-17 20:00:00",
+		"date_end": "2017-02-18 01:00:00",
+		"virtual_date_start": "2017-02-17 20:00:00",
+		"virtual_date_end": "2017-02-17 01:00:00",
+		"publish_date": "2016-11-30 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Boiler Shop",
+			"address": "",
+			"city": "Newcastle Upon Tyne",
+			"state": "",
+			"postal": "NE1 3PD",
+			"country": "GB",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "54.9783",
+				"longitude": "-1.61778"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-29 15:30:00"
+	}, {
+		"gig_id": "372536",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-02-18 20:00:00",
+		"date_end": "2017-02-19 01:00:00",
+		"virtual_date_start": "2017-02-18 20:00:00",
+		"virtual_date_end": "2017-02-18 01:00:00",
+		"publish_date": "2016-11-30 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Camp and Furnace",
+			"address": "67 Greenland Street",
+			"city": "Liverpool",
+			"state": "",
+			"postal": "",
+			"country": "GB",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "53.395",
+				"longitude": "-2.97843"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-29 15:33:00"
+	}, {
+		"gig_id": "320460",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-02-24 22:30:00",
+		"date_end": "2017-02-24 23:10:00",
+		"virtual_date_start": "2017-02-24 22:30:00",
+		"virtual_date_end": "2017-02-24 23:10:00",
+		"publish_date": "2016-06-14 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Festzelt",
+			"address": "Immelmannstrasse",
+			"city": "M\u00f6nchengladbach",
+			"state": "",
+			"postal": "41069",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.1855",
+				"longitude": "6.41037"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-09-13 15:29:00"
+	}, {
+		"gig_id": "342839",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-03-11 23:59:00",
+		"date_end": "2017-03-12 02:00:00",
+		"virtual_date_start": "2017-03-11 23:59:00",
+		"virtual_date_end": "2017-03-11 02:00:00",
+		"publish_date": "2016-10-21 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Maassilo",
+			"address": "Maashaven Z.z. 1-2",
+			"city": "Rotterdam",
+			"state": "Zuid-Holland",
+			"postal": "3081 AE",
+			"country": "NL",
+			"website": "http:\/\/www.maassilo.com",
+			"phone": "010 476 2452",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.9004",
+				"longitude": "4.49012"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-12-02 10:03:00"
+	}, {
+		"gig_id": "318868",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-03-17 22:00:00",
+		"date_end": "2017-03-17 22:40:00",
+		"virtual_date_start": "2017-03-17 22:00:00",
+		"virtual_date_end": "2017-03-17 22:40:00",
+		"publish_date": "2016-05-13 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Messehalle",
+			"address": "Valentin Leitgeb Strasse 1",
+			"city": "Klagenfurt",
+			"state": "",
+			"postal": "9020",
+			"country": "AT",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "46.6189",
+				"longitude": "14.3044"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-06-28 11:49:00"
+	}, {
+		"gig_id": "327493",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-03-18 22:00:00",
+		"date_end": "2017-03-19 01:00:00",
+		"virtual_date_start": "2017-03-18 22:00:00",
+		"virtual_date_end": "2017-03-18 01:00:00",
+		"publish_date": "2016-09-16 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Hotel Dorf M\u00fcnsterland",
+			"address": "Haidkamp 1",
+			"city": "Legden",
+			"state": "",
+			"postal": "48739",
+			"country": "DE",
+			"website": "http:\/\/www.dorf-muensterland.com",
+			"phone": "0049 2566 208104",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "52.0384",
+				"longitude": "7.10595"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-09-20 14:21:00"
+	}, {
+		"gig_id": "364555",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-03-25 23:30:00",
+		"date_end": "2017-03-25 23:59:00",
+		"virtual_date_start": "2017-03-25 23:30:00",
+		"virtual_date_end": "2017-03-25 23:59:00",
+		"publish_date": "2016-11-08 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Feesttent",
+			"address": "Reekseweg",
+			"city": "Zeeland",
+			"state": "Noord-Brabant",
+			"postal": "5411 RB",
+			"country": "NL",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.7142",
+				"longitude": "5.68523"
+			}
+		},
+		"event": {
+			"title": "Halfvastenfeesten",
+			"description": "",
+			"website": "http:\/\/www.halfvastenfeesten.nl",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-12-02 16:55:00"
+	}, {
+		"gig_id": "351123",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-04-07 23:00:00",
+		"date_end": "2017-04-07 23:30:00",
+		"virtual_date_start": "2017-04-07 23:00:00",
+		"virtual_date_end": "2017-04-07 23:30:00",
+		"publish_date": "2016-11-08 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Feesttent",
+			"address": "Pastoor de Vochtplein",
+			"city": "Sambeek",
+			"state": "Noord-Brabant",
+			"postal": "5836 BE",
+			"country": "NL",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.6358",
+				"longitude": "5.96689"
+			}
+		},
+		"event": {
+			"title": "Lindefeesten Sambeek",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-07 11:01:00"
+	}, {
+		"gig_id": "331256",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-04-13 20:00:00",
+		"date_end": "2017-04-14 01:00:00",
+		"virtual_date_start": "2017-04-13 20:00:00",
+		"virtual_date_end": "2017-04-13 01:00:00",
+		"publish_date": "2016-09-14 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Forum Karl\u00edn",
+			"address": "Pernerova 51",
+			"city": "Prague",
+			"state": "",
+			"postal": "186 00",
+			"country": "CZ",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "50.0914",
+				"longitude": "14.455"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-27 11:21:00"
+	}, {
+		"gig_id": "331255",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-04-14 22:00:00",
+		"date_end": "2017-04-15 01:00:00",
+		"virtual_date_start": "2017-04-14 22:00:00",
+		"virtual_date_end": "2017-04-14 01:00:00",
+		"publish_date": "2016-09-14 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Sareza Ice Hockey Ostrava Ar\u00e9na",
+			"address": "Rusk\u00e1 3077 135",
+			"city": "Ostrava",
+			"state": "",
+			"postal": "700 30",
+			"country": "CZ",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "49.8049",
+				"longitude": "18.2485"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-27 11:21:00"
+	}, {
+		"gig_id": "331254",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-04-15 20:00:00",
+		"date_end": "2017-04-16 01:00:00",
+		"virtual_date_start": "2017-04-15 20:00:00",
+		"virtual_date_end": "2017-04-15 01:00:00",
+		"publish_date": "2016-09-14 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "BVV - Pavilon G1",
+			"address": "V\u00fdstaviste 405\/1",
+			"city": "Brno",
+			"state": "",
+			"postal": "603 00",
+			"country": "CZ",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "49.1877",
+				"longitude": "16.5823"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-27 11:22:00"
+	}, {
+		"gig_id": "377558",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-04-16 23:00:00",
+		"date_end": "2017-04-17 01:00:00",
+		"virtual_date_start": "2017-04-16 23:00:00",
+		"virtual_date_end": "2017-04-16 01:00:00",
+		"publish_date": "2016-12-14 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Ringlokschuppen",
+			"address": "Stadtheider Strasse 11",
+			"city": "Bielefeld",
+			"state": "",
+			"postal": "33609",
+			"country": "DE",
+			"website": "http:\/\/ww.ringlokschuppen.com",
+			"phone": "0049 521557388",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "52.0371",
+				"longitude": "8.55136"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-12-13 14:10:00"
+	}, {
+		"gig_id": "344672",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-04-22 20:00:00",
+		"date_end": "2017-04-23 01:00:00",
+		"virtual_date_start": "2017-04-22 20:00:00",
+		"virtual_date_end": "2017-04-22 01:00:00",
+		"publish_date": "2016-09-06 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Westfalenhallen",
+			"address": "Rheinlanddamm 200",
+			"city": "Dortmund",
+			"state": "",
+			"postal": "44139",
+			"country": "DE",
+			"website": "http:\/\/www.westfalenhallen.de",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.4968",
+				"longitude": "7.4569"
+			}
+		},
+		"event": {
+			"title": "90' Party",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-07 13:30:00"
+	}, {
+		"gig_id": "302300",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-04-29 23:00:00",
+		"date_end": "2017-04-30 01:00:00",
+		"virtual_date_start": "2017-04-29 23:00:00",
+		"virtual_date_end": "2017-04-29 01:00:00",
+		"publish_date": "2016-04-20 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Backstage",
+			"address": "Reitknechtstrasse 6",
+			"city": "M\u00fcnchen",
+			"state": "",
+			"postal": "80639",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "48.145",
+				"longitude": "11.5219"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-14 13:47:00"
+	}, {
+		"gig_id": "350411",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-05-06 23:59:00",
+		"date_end": "2017-05-07 00:30:00",
+		"virtual_date_start": "2017-05-06 23:59:00",
+		"virtual_date_end": "2017-05-06 00:30:00",
+		"publish_date": "2016-09-20 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Feesttent Blokland",
+			"address": "Blokland",
+			"city": "Nieuwveen",
+			"state": "Zuid-Holland",
+			"postal": "2441 EC",
+			"country": "NL",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "52.2082",
+				"longitude": "4.77887"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-25 15:06:00"
+	}, {
+		"gig_id": "349659",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-05-24 23:00:00",
+		"date_end": "2017-05-24 23:40:00",
+		"virtual_date_start": "2017-05-24 23:00:00",
+		"virtual_date_end": "2017-05-24 23:40:00",
+		"publish_date": "2016-09-16 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Tivoli Eissporthalle",
+			"address": "Hubert Wienen Strasse  8",
+			"city": "Aachen",
+			"state": "",
+			"postal": "52070",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "50.796",
+				"longitude": "6.10108"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-02 16:41:00"
+	}, {
+		"gig_id": "341281",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-05-27 14:00:00",
+		"date_end": "2017-05-27 23:00:00",
+		"virtual_date_start": "2017-05-27 14:00:00",
+		"virtual_date_end": "2017-05-27 23:00:00",
+		"publish_date": "2016-09-30 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne R\u00f8dovre",
+			"address": "Rodovre parkvej 160",
+			"city": "Rodovre",
+			"state": "",
+			"postal": "2610",
+			"country": "DK",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "55.6805",
+				"longitude": "12.456"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-21 14:56:00"
+	}, {
+		"gig_id": "341282",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-06-03 14:00:00",
+		"date_end": "2017-06-03 23:00:00",
+		"virtual_date_start": "2017-06-03 14:00:00",
+		"virtual_date_end": "2017-06-03 23:00:00",
+		"publish_date": "2016-09-30 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne Odense",
+			"address": "Kongens Have",
+			"city": "Odense",
+			"state": "",
+			"postal": "",
+			"country": "DK",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "55.3997",
+				"longitude": "10.385"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-21 14:56:00"
+	}, {
+		"gig_id": "341283",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-06-04 14:00:00",
+		"date_end": "2017-06-04 23:00:00",
+		"virtual_date_start": "2017-06-04 14:00:00",
+		"virtual_date_end": "2017-06-04 23:00:00",
+		"publish_date": "2016-09-30 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne Aalborg",
+			"address": "Kildeparken",
+			"city": "Aalborg",
+			"state": "",
+			"postal": "9000",
+			"country": "DK",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "57.0427",
+				"longitude": "9.91337"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-21 14:57:00"
+	}, {
+		"gig_id": "326412",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-06-10 23:00:00",
+		"date_end": "2017-06-11 01:00:00",
+		"virtual_date_start": "2017-06-10 23:00:00",
+		"virtual_date_end": "2017-06-10 01:00:00",
+		"publish_date": "2016-06-01 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Jahrhunderthalle Bochum",
+			"address": "An der Jahrhunderthalle 1",
+			"city": "Bochum",
+			"state": "",
+			"postal": "44793",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.4815",
+				"longitude": "7.19875"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-24 10:33:00"
+	}, {
+		"gig_id": "329682",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-06-17 22:00:00",
+		"date_end": "2017-06-18 01:00:00",
+		"virtual_date_start": "2017-06-17 22:00:00",
+		"virtual_date_end": "2017-06-17 01:00:00",
+		"publish_date": "2016-07-01 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Messeplatz",
+			"address": "Hermann Mitsch Strasse 3",
+			"city": "Freiburg im Breisgau",
+			"state": "",
+			"postal": "79108",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "48.0159",
+				"longitude": "7.84069"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-06-30 12:51:00"
+	}, {
+		"gig_id": "339210",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-06-23 22:00:00",
+		"date_end": "2017-06-24 01:00:00",
+		"virtual_date_start": "2017-06-23 22:00:00",
+		"virtual_date_end": "2017-06-23 01:00:00",
+		"publish_date": "2016-07-27 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Pontins Southport",
+			"address": "Holiday Park Shore Road",
+			"city": "Southport",
+			"state": "",
+			"postal": "PR8 2PZ",
+			"country": "GB",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "53.6053",
+				"longitude": "-3.05248"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-07-28 14:04:00"
+	}, {
+		"gig_id": "373622",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-06-24 20:30:00",
+		"date_end": "2017-06-24 21:00:00",
+		"virtual_date_start": "2017-06-24 20:30:00",
+		"virtual_date_end": "2017-06-24 21:00:00",
+		"publish_date": "2016-12-09 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Hippisch Centrum Deurne",
+			"address": "Bruggenseweg 11a",
+			"city": "Deurne",
+			"state": "Noord-Brabant",
+			"postal": "5752 SC",
+			"country": "NL",
+			"website": "http:\/\/www.hippischcentrumdeurne.nl",
+			"phone": "088 9000 350",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.4754",
+				"longitude": "5.76593"
+			}
+		},
+		"event": {
+			"title": "The 90's are back!!",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-12-12 11:56:00"
+	}, {
+		"gig_id": "368706",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-07-01 21:15:00",
+		"date_end": "2017-07-01 22:00:00",
+		"virtual_date_start": "2017-07-01 21:15:00",
+		"virtual_date_end": "2017-07-01 22:00:00",
+		"publish_date": "2016-11-30 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Open Air Dresden",
+			"address": "Messeplatz",
+			"city": "Dresden",
+			"state": "",
+			"postal": "",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.0687",
+				"longitude": "13.7145"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-29 15:57:00"
+	}, {
+		"gig_id": "341302",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-07-08 22:00:00",
+		"date_end": "2017-07-09 01:00:00",
+		"virtual_date_start": "2017-07-08 22:00:00",
+		"virtual_date_end": "2017-07-08 01:00:00",
+		"publish_date": "2016-10-28 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne G\u00e4vle",
+			"address": "G\u00e4vle",
+			"city": "G\u00e4vle",
+			"state": "",
+			"postal": "",
+			"country": "SE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "60.6749",
+				"longitude": "17.1413"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-27 12:32:00"
+	}, {
+		"gig_id": "341303",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-07-15 22:00:00",
+		"date_end": "2017-07-16 01:00:00",
+		"virtual_date_start": "2017-07-15 22:00:00",
+		"virtual_date_end": "2017-07-15 01:00:00",
+		"publish_date": "2016-10-28 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne Kalmar",
+			"address": "Kalmar",
+			"city": "Kalmar",
+			"state": "",
+			"postal": "",
+			"country": "SE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "56.6634",
+				"longitude": "16.3568"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-27 12:32:00"
+	}, {
+		"gig_id": "357257",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-07-18 21:30:00",
+		"date_end": "2017-07-18 22:00:00",
+		"virtual_date_start": "2017-07-18 21:30:00",
+		"virtual_date_end": "2017-07-18 22:00:00",
+		"publish_date": "2016-10-08 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Overdekt Podium",
+			"address": "Waalkade 1",
+			"city": "Nijmegen",
+			"state": "Gelderland",
+			"postal": "6511 XP",
+			"country": "NL",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.8498",
+				"longitude": "5.86197"
+			}
+		},
+		"event": {
+			"title": "Matrixx Live aan de Kade",
+			"description": "",
+			"website": "http:\/\/www.matrixx.nl",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-25 15:06:00"
+	}, {
+		"gig_id": "341304",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-07-22 20:00:00",
+		"date_end": "2017-07-23 01:00:00",
+		"virtual_date_start": "2017-07-22 20:00:00",
+		"virtual_date_end": "2017-07-22 01:00:00",
+		"publish_date": "2016-10-28 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne Varberg",
+			"address": "Varberg",
+			"city": "Varberg",
+			"state": "",
+			"postal": "",
+			"country": "SE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "57.1071",
+				"longitude": "12.2521"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-27 12:32:00"
+	}, {
+		"gig_id": "341305",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-07-29 20:00:00",
+		"date_end": "2017-07-30 01:00:00",
+		"virtual_date_start": "2017-07-29 20:00:00",
+		"virtual_date_end": "2017-07-29 01:00:00",
+		"publish_date": "2016-10-28 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne Malm\u00f6",
+			"address": "Tallriken Pildammsparken",
+			"city": "Malm\u00f6",
+			"state": "",
+			"postal": "",
+			"country": "SE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "55.605",
+				"longitude": "13.0038"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-27 12:31:00"
+	}, {
+		"gig_id": "341284",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-08-19 20:00:00",
+		"date_end": "2017-08-20 01:00:00",
+		"virtual_date_start": "2017-08-19 20:00:00",
+		"virtual_date_end": "2017-08-19 01:00:00",
+		"publish_date": "2016-10-07 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne N\u00e6stved",
+			"address": "Radmandshaven 20",
+			"city": "Naestved",
+			"state": "",
+			"postal": "4700",
+			"country": "DK",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "55.2324",
+				"longitude": "11.7537"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-21 14:58:00"
+	}, {
+		"gig_id": "368682",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-08-26 15:00:00",
+		"date_end": "2017-08-27 00:00:00",
+		"virtual_date_start": "2017-08-26 15:00:00",
+		"virtual_date_end": "2017-08-26 00:00:00",
+		"publish_date": "2016-11-22 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne Aarhus",
+			"address": "Jysk Vaeddelobsbane",
+			"city": "Aarhus",
+			"state": "",
+			"postal": "",
+			"country": "DK",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "56.1629",
+				"longitude": "10.2039"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-22 10:33:00"
+	}, {
+		"gig_id": "341285",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-08-26 20:00:00",
+		"date_end": "2017-08-27 01:00:00",
+		"virtual_date_start": "2017-08-26 20:00:00",
+		"virtual_date_end": "2017-08-26 01:00:00",
+		"publish_date": "2016-10-07 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Vi Elsker 90'erne Holstebro",
+			"address": "Sportspladsen Hjaltesvej",
+			"city": "Holstebro",
+			"state": "",
+			"postal": "",
+			"country": "DK",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "56.3678",
+				"longitude": "8.63421"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-21 14:58:00"
+	}, {
+		"gig_id": "353440",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-09-16 23:00:00",
+		"date_end": "2017-09-16 23:59:00",
+		"virtual_date_start": "2017-09-16 23:00:00",
+		"virtual_date_end": "2017-09-16 23:59:00",
+		"publish_date": "2016-10-04 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Messehalle Chemnitz",
+			"address": "Messepl 1",
+			"city": "Chemnitz",
+			"state": "",
+			"postal": "09116",
+			"country": "DE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "50.8186",
+				"longitude": "12.8814"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-20 12:31:00"
+	}, {
+		"gig_id": "347510",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-10-08 01:00:00",
+		"date_end": "2017-10-08 01:30:00",
+		"virtual_date_start": "2017-10-07 01:00:00",
+		"virtual_date_end": "2017-10-07 01:30:00",
+		"publish_date": "2016-11-01 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Nekkerhal",
+			"address": "Plattebeekstraat 1",
+			"city": "Mechelen",
+			"state": "",
+			"postal": "2800",
+			"country": "BE",
+			"website": "http:\/\/www.nekkerhalbrusselsnorth.com",
+			"phone": "+32 15 55 10 01",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "51.031",
+				"longitude": "4.50488"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-10-31 11:33:00"
+	}, {
+		"gig_id": "368169",
+		"schedule_id": "261",
+		"schedule_name": "Vengaboys",
+		"date_start": "2017-11-11 01:00:00",
+		"date_end": "2017-11-11 01:40:00",
+		"virtual_date_start": "2017-11-10 01:00:00",
+		"virtual_date_end": "2017-11-10 01:40:00",
+		"publish_date": "2016-11-15 12:00:00",
+		"status": "1",
+		"private": "0",
+		"venue": {
+			"name": "Puls Nattklubb",
+			"address": "Slottsgatan 114 118",
+			"city": "Norrk\u00f6ping",
+			"state": "",
+			"postal": "60222",
+			"country": "SE",
+			"website": "",
+			"phone": "",
+			"geo": {
+				"status": "OK",
+				"provider": "geocoder",
+				"provider_id": "0",
+				"latitude": "58.5947",
+				"longitude": "16.1818"
+			}
+		},
+		"event": {
+			"title": "",
+			"description": "",
+			"website": "",
+			"website_tickets": "",
+			"phone": "",
+			"facebook_id": null
+		},
+		"change_date": "2016-11-14 16:04:00"
+	}
+]

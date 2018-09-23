@@ -1,0 +1,1598 @@
+[
+    {
+        "gig_id": "519584",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-10-02 18:30:00",
+        "date_end": "2018-10-02 19:30:00",
+        "virtual_date_start": "2018-10-02 18:30:00",
+        "virtual_date_end": "2018-10-02 19:30:00",
+        "publish_date": "2018-04-11 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "LGTBI Open Sea Cruise",
+            "address": "",
+            "city": "Marseille to Barcelona",
+            "state": "",
+            "postal": "",
+            "country": "ES",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "41.3997",
+                "longitude": "2.15551"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "https:\/\/open-sea.com",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-13 17:26:00"
+    },
+    {
+        "gig_id": "398084",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-10-06 20:40:00",
+        "date_end": "2018-10-06 21:00:00",
+        "virtual_date_start": "2018-10-06 20:40:00",
+        "virtual_date_end": "2018-10-06 21:00:00",
+        "publish_date": "2017-04-19 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Unihalle Wuppertal",
+            "address": "Albert Einstein Strasse 20",
+            "city": "Wuppertal",
+            "state": "",
+            "postal": "42119",
+            "country": "DE",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.2412",
+                "longitude": "7.14773"
+            }
+        },
+        "event": {
+            "title": "90er Party Arena",
+            "description": "",
+            "website": "http:\/\/www.party-arena.de\/programm-wuppe",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-11 14:10:00"
+    },
+    {
+        "gig_id": "459571",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-10-12 23:00:00",
+        "date_end": "2018-10-12 23:40:00",
+        "virtual_date_start": "2018-10-12 23:00:00",
+        "virtual_date_end": "2018-10-12 23:40:00",
+        "publish_date": "2017-10-11 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Pontins Camber Sands",
+            "address": "New Lydd Road, Camber",
+            "city": "East Sussex",
+            "state": "",
+            "postal": "TN31 7RL",
+            "country": "GB",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "50.9362",
+                "longitude": "0.790486"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "https:\/\/www.pontins.com\/vengaboys\/",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-10 17:05:00"
+    },
+    {
+        "gig_id": "473116",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-10-13 21:15:00",
+        "date_end": "2018-10-13 21:35:00",
+        "virtual_date_start": "2018-10-13 21:15:00",
+        "virtual_date_end": "2018-10-13 21:35:00",
+        "publish_date": "2017-11-28 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "The Ricoh Arena",
+            "address": "Judds Lane",
+            "city": "Coventry",
+            "state": "",
+            "postal": "CV6 6GE",
+            "country": "GB",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "52.4498",
+                "longitude": "-1.49583"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "https:\/\/www.eticketing.co.uk\/ricoharena\/",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-20 14:59:00"
+    },
+    {
+        "gig_id": "535096",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-10-19 00:30:00",
+        "date_end": "2018-10-19 01:00:00",
+        "virtual_date_start": "2018-10-18 00:30:00",
+        "virtual_date_end": "2018-10-18 01:00:00",
+        "publish_date": "2018-06-01 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Zero Gravity Sky Dive Dubai",
+            "address": "Al Suffoh Rd",
+            "city": "Dubai",
+            "state": "",
+            "postal": "",
+            "country": "AE",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "25.0986",
+                "longitude": "55.1557"
+            }
+        },
+        "event": {
+            "title": "Supernatural",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-20 13:48:00"
+    },
+    {
+        "gig_id": "484636",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-11-04 01:20:00",
+        "date_end": "2018-11-04 01:40:00",
+        "virtual_date_start": "2018-11-03 01:20:00",
+        "virtual_date_end": "2018-11-03 01:40:00",
+        "publish_date": "2018-01-09 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "'T Bauhuis",
+            "address": "Slachthuisstraat 60",
+            "city": "Sint Niklaas",
+            "state": "",
+            "postal": "9100",
+            "country": "BE",
+            "website": "",
+            "phone": "0032 37803070",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.1736",
+                "longitude": "4.14527"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-06-26 14:15:00"
+    },
+    {
+        "gig_id": "553452",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-11-04 17:10:00",
+        "date_end": "2018-11-04 17:40:00",
+        "virtual_date_start": "2018-11-04 17:10:00",
+        "virtual_date_end": "2018-11-04 17:40:00",
+        "publish_date": "2018-08-16 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Feesttent",
+            "address": "Peelheideweg",
+            "city": "America",
+            "state": "Limburg",
+            "postal": "5966 PJ",
+            "country": "NL",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.4489",
+                "longitude": "5.96354"
+            }
+        },
+        "event": {
+            "title": "Zondag in 't Zuiden",
+            "description": "",
+            "website": "http:\/\/rowwenheze.nl\/slotconcert-3\/info-zondag-",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-10 16:02:00"
+    },
+    {
+        "gig_id": "555323",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-11-10 01:00:00",
+        "date_end": "2018-11-10 01:40:00",
+        "virtual_date_start": "2018-11-09 01:00:00",
+        "virtual_date_end": "2018-11-09 01:40:00",
+        "publish_date": "2018-08-24 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Club Index",
+            "address": "Industriestrasse 10",
+            "city": "Sch\u00fcttorf",
+            "state": "",
+            "postal": "48465",
+            "country": "DE",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "52.3339",
+                "longitude": "7.24736"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-08-23 09:54:00"
+    },
+    {
+        "gig_id": "463874",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-11-11 00:15:00",
+        "date_end": "2018-11-11 00:55:00",
+        "virtual_date_start": "2018-11-10 00:15:00",
+        "virtual_date_end": "2018-11-10 00:55:00",
+        "publish_date": "2017-11-01 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Kugl",
+            "address": "G\u00fcterbahnhofstrasse 4",
+            "city": "St. Gallen",
+            "state": "",
+            "postal": "9000",
+            "country": "CH",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "47.4185",
+                "longitude": "9.36441"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-11 10:25:00"
+    },
+    {
+        "gig_id": "466472",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-11-11 02:15:00",
+        "date_end": "2018-11-11 02:55:00",
+        "virtual_date_start": "2018-11-10 02:15:00",
+        "virtual_date_end": "2018-11-10 02:55:00",
+        "publish_date": "2017-11-01 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "H\u00e4rterei Club",
+            "address": "Hardstrasse 219",
+            "city": "Z\u00fcrich",
+            "state": "",
+            "postal": "8005",
+            "country": "CH",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "47.3869",
+                "longitude": "8.51681"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-18 09:53:00"
+    },
+    {
+        "gig_id": "519120",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-11-16 23:00:00",
+        "date_end": "2018-11-16 23:30:00",
+        "virtual_date_start": "2018-11-16 23:00:00",
+        "virtual_date_end": "2018-11-16 23:30:00",
+        "publish_date": "2018-08-25 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Feesttent",
+            "address": "Wagenbergsestraat 1",
+            "city": "Made",
+            "state": "Noord-Brabant",
+            "postal": "4921 XV",
+            "country": "NL",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.6667",
+                "longitude": "4.77937"
+            }
+        },
+        "event": {
+            "title": "Sensational 90's",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-05-24 14:06:00"
+    },
+    {
+        "gig_id": "494370",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-11-17 21:30:00",
+        "date_end": "2018-11-17 22:00:00",
+        "virtual_date_start": "2018-11-17 21:30:00",
+        "virtual_date_end": "2018-11-17 22:00:00",
+        "publish_date": "2018-02-17 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Brabanthallen s Hertogenbosch",
+            "address": "Diezekade 2",
+            "city": "s Hertogenbosch",
+            "state": "Noord-Brabant",
+            "postal": "5222 AK",
+            "country": "NL",
+            "website": "http:\/\/www.brabanthallen.nl",
+            "phone": "073 629 3911",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.7014",
+                "longitude": "5.28999"
+            }
+        },
+        "event": {
+            "title": "Welcome To The 90's",
+            "description": "",
+            "website": "http:\/\/www.welcometothe90s.nl",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-02-16 15:48:00"
+    },
+    {
+        "gig_id": "541259",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-11-23 23:59:00",
+        "date_end": "2018-11-24 00:40:00",
+        "virtual_date_start": "2018-11-23 23:59:00",
+        "virtual_date_end": "2018-11-23 00:40:00",
+        "publish_date": "2018-06-27 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "The Grand",
+            "address": "21 25 St Johns Hill",
+            "city": "London",
+            "state": "",
+            "postal": "SW11 1TT",
+            "country": "GB",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.463",
+                "longitude": "-0.169381"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-20 16:27:00"
+    },
+    {
+        "gig_id": "475087",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-11-24 23:00:00",
+        "date_end": "2018-11-24 23:30:00",
+        "virtual_date_start": "2018-11-24 23:00:00",
+        "virtual_date_end": "2018-11-24 23:30:00",
+        "publish_date": "2017-12-05 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "IJsselhallen",
+            "address": "Rieteweg 4",
+            "city": "Zwolle",
+            "state": "Overijssel",
+            "postal": "8011 AB",
+            "country": "NL",
+            "website": "http:\/\/www.ijsselhallen.nl",
+            "phone": "038 421 1843",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "52.511",
+                "longitude": "6.08025"
+            }
+        },
+        "event": {
+            "title": "Remember the 90's",
+            "description": "",
+            "website": "http:\/\/rememberthe90s.nl\/",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-03-12 09:00:00"
+    },
+    {
+        "gig_id": "483450",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-12-01 22:30:00",
+        "date_end": "2018-12-01 23:00:00",
+        "virtual_date_start": "2018-12-01 22:30:00",
+        "virtual_date_end": "2018-12-01 23:00:00",
+        "publish_date": "2018-01-19 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Preston Palace",
+            "address": "Laan van Iserlohn 1",
+            "city": "Almelo",
+            "state": "Overijssel",
+            "postal": "7607 PT",
+            "country": "NL",
+            "website": "http:\/\/www.prestonpalace.nl",
+            "phone": "0546 542 121",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "52.3517",
+                "longitude": "6.67991"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-06-29 11:40:00"
+    },
+    {
+        "gig_id": "490090",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-12-09 01:30:00",
+        "date_end": "2018-12-09 02:10:00",
+        "virtual_date_start": "2018-12-08 01:30:00",
+        "virtual_date_end": "2018-12-08 02:10:00",
+        "publish_date": "2018-01-31 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Bootshaus",
+            "address": "Auenweg 173",
+            "city": "K\u00f6ln",
+            "state": "",
+            "postal": "51063",
+            "country": "DE",
+            "website": "http:\/\/www.bootshaus.tv",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "50.9508",
+                "longitude": "6.98276"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-06-14 16:55:00"
+    },
+    {
+        "gig_id": "527564",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-12-21 20:00:00",
+        "date_end": "2018-12-21 20:40:00",
+        "virtual_date_start": "2018-12-21 20:00:00",
+        "virtual_date_end": "2018-12-21 20:40:00",
+        "publish_date": "2018-05-15 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Mecca Bingo Hartlepool",
+            "address": "The Lanyard\nThe Lanyard",
+            "city": "Hartlepool Cleveland",
+            "state": "",
+            "postal": "TS24 0XS",
+            "country": "GB",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "54.6877",
+                "longitude": "-1.20541"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-11 10:27:00"
+    },
+    {
+        "gig_id": "522517",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-12-23 01:00:00",
+        "date_end": "2018-12-23 01:40:00",
+        "virtual_date_start": "2018-12-22 01:00:00",
+        "virtual_date_end": "2018-12-22 01:40:00",
+        "publish_date": "2018-05-02 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Eddies Rocks",
+            "address": "4 Quay Street",
+            "city": "Haverfordwest",
+            "state": "",
+            "postal": "SA61 1BG",
+            "country": "GB",
+            "website": "http:\/\/www.eddies.co",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.8018",
+                "longitude": "-4.96772"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-11 10:27:00"
+    },
+    {
+        "gig_id": "494058",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2018-12-29 23:00:00",
+        "date_end": "2018-12-29 23:40:00",
+        "virtual_date_start": "2018-12-29 23:00:00",
+        "virtual_date_end": "2018-12-29 23:40:00",
+        "publish_date": "2018-02-16 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Audi Arena",
+            "address": "T\u00f3th L\u00e1szl\u00f3 utca",
+            "city": "Gyor",
+            "state": "",
+            "postal": "9027",
+            "country": "HU",
+            "website": "",
+            "phone": "+36 96806920",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "47.6975",
+                "longitude": "17.6667"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-11 10:28:00"
+    },
+    {
+        "gig_id": "544616",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-01-18 20:00:00",
+        "date_end": "2019-01-19 01:00:00",
+        "virtual_date_start": "2019-01-18 20:00:00",
+        "virtual_date_end": "2019-01-18 01:00:00",
+        "publish_date": "2018-08-31 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Butlins Resort Minehead",
+            "address": "Warren Road",
+            "city": "Minehead",
+            "state": "Somerset",
+            "postal": "TA24 5SH",
+            "country": "GB",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.2069",
+                "longitude": "-3.46273"
+            }
+        },
+        "event": {
+            "title": "Boyzone Farewell Tour",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-08-30 16:44:00"
+    },
+    {
+        "gig_id": "554106",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-01-25 23:30:00",
+        "date_end": "2019-01-26 00:30:00",
+        "virtual_date_start": "2019-01-25 23:30:00",
+        "virtual_date_end": "2019-01-25 00:30:00",
+        "publish_date": "2018-08-17 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Adiamo",
+            "address": "Im Kurgarten 8\nIm Kurgarten 8",
+            "city": "Bad Oeyenhausen",
+            "state": "",
+            "postal": "32545",
+            "country": "DE",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "52.1984",
+                "longitude": "8.79628"
+            }
+        },
+        "event": {
+            "title": "90er Party",
+            "description": "Capacity 1000",
+            "website": "http:\/\/TBA",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-08-16 14:17:00"
+    },
+    {
+        "gig_id": "563910",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-03-08 21:00:00",
+        "date_end": "2019-03-08 23:00:00",
+        "virtual_date_start": "2019-03-08 21:00:00",
+        "virtual_date_end": "2019-03-08 23:00:00",
+        "publish_date": "2018-09-19 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "The Garage",
+            "address": "490 Sauchiehall Street",
+            "city": "Glasgow",
+            "state": "",
+            "postal": "G2 3LW",
+            "country": "GB",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "55.8662",
+                "longitude": "-4.26893"
+            }
+        },
+        "event": {
+            "title": "The Vengaboys at Glasgow Garage",
+            "description": "",
+            "website": "http:\/\/garageglasgow.co.uk",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-18 17:25:00"
+    },
+    {
+        "gig_id": "537065",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-03-09 23:00:00",
+        "date_end": "2019-03-09 23:30:00",
+        "virtual_date_start": "2019-03-09 23:00:00",
+        "virtual_date_end": "2019-03-09 23:30:00",
+        "publish_date": "2018-07-25 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Fletcher Hotel-Restaurant Emmen",
+            "address": "Van Schaikweg 55",
+            "city": "Emmen",
+            "state": "Drenthe",
+            "postal": "7811 HN",
+            "country": "NL",
+            "website": "http:\/\/www.fletcherhotelemmen.nl",
+            "phone": "0591 642 002",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "52.7801",
+                "longitude": "6.90242"
+            }
+        },
+        "event": {
+            "title": "Q-Music 4 UUR FOUT!",
+            "description": "",
+            "website": "http:\/\/www.fletcherevents.nl",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-07-25 11:53:00"
+    },
+    {
+        "gig_id": "535996",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-03-30 14:00:00",
+        "date_end": "2019-03-30 23:59:00",
+        "virtual_date_start": "2019-03-30 14:00:00",
+        "virtual_date_end": "2019-03-30 23:59:00",
+        "publish_date": "2018-07-04 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Veltins-Arena",
+            "address": "Arenaring 1",
+            "city": "Gelsenkirchen",
+            "state": "",
+            "postal": "45891",
+            "country": "DE",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.5546",
+                "longitude": "7.0675"
+            }
+        },
+        "event": {
+            "title": "Die 90er Live",
+            "description": "",
+            "website": "http:\/\/www.90er-live.de\/",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-07-03 15:09:00"
+    },
+    {
+        "gig_id": "532574",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-04-06 00:30:00",
+        "date_end": "2019-04-06 01:00:00",
+        "virtual_date_start": "2019-04-05 00:30:00",
+        "virtual_date_end": "2019-04-05 01:00:00",
+        "publish_date": "2018-09-08 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Overdekt Podium",
+            "address": "Raadhuisplein 1",
+            "city": "Reuver",
+            "state": "Limburg",
+            "postal": "5953 AL",
+            "country": "NL",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.2837",
+                "longitude": "6.07767"
+            }
+        },
+        "event": {
+            "title": "Tentfie\u00ebs Ruiver- I love 90s",
+            "description": "",
+            "website": "https:\/\/events-4-you.nl\/",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-07 17:16:00"
+    },
+    {
+        "gig_id": "518771",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-04-19 23:59:00",
+        "date_end": "2019-04-20 00:30:00",
+        "virtual_date_start": "2019-04-19 23:59:00",
+        "virtual_date_end": "2019-04-19 00:30:00",
+        "publish_date": "2018-06-30 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Feesttent",
+            "address": "Stokdijk 9",
+            "city": "Langedijke",
+            "state": "Friesland",
+            "postal": "8425 SM",
+            "country": "NL",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "52.9634",
+                "longitude": "6.28316"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-07-10 10:39:00"
+    },
+    {
+        "gig_id": "528500",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-04-26 21:30:00",
+        "date_end": "2019-04-26 22:00:00",
+        "virtual_date_start": "2019-04-26 21:30:00",
+        "virtual_date_end": "2019-04-26 22:00:00",
+        "publish_date": "2018-08-08 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Overdekt Podium",
+            "address": "Stationstraat 40",
+            "city": "Ermelo",
+            "state": "Gelderland",
+            "postal": "3851 NJ",
+            "country": "NL",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "52.1032",
+                "longitude": "6.06601"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-08-15 07:32:00"
+    },
+    {
+        "gig_id": "561125",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-05-05 21:00:00",
+        "date_end": "2019-05-05 22:00:00",
+        "virtual_date_start": "2019-05-05 21:00:00",
+        "virtual_date_end": "2019-05-05 22:00:00",
+        "publish_date": "2018-09-12 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Sackville Gardens",
+            "address": "",
+            "city": "Manchester",
+            "state": "",
+            "postal": "M1 3HB",
+            "country": "GB",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "53.4808",
+                "longitude": "-2.24263"
+            }
+        },
+        "event": {
+            "title": "Village People Weekend",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-17 09:25:00"
+    },
+    {
+        "gig_id": "511220",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-05-11 20:00:00",
+        "date_end": "2019-05-12 01:00:00",
+        "virtual_date_start": "2019-05-11 20:00:00",
+        "virtual_date_end": "2019-05-11 01:00:00",
+        "publish_date": "2018-06-16 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "WiZink Center",
+            "address": "Av. Felipe II, s\/n.",
+            "city": "Madrid",
+            "state": "",
+            "postal": "28009",
+            "country": "ES",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "40.4239",
+                "longitude": "-3.67184"
+            }
+        },
+        "event": {
+            "title": "Love The 90s en Concierto!",
+            "description": "",
+            "website": "http:\/\/yosaliadefiestaenlos90.com",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-08-07 14:35:00"
+    },
+    {
+        "gig_id": "533698",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-05-18 20:00:00",
+        "date_end": "2019-05-19 01:00:00",
+        "virtual_date_start": "2019-05-18 20:00:00",
+        "virtual_date_end": "2019-05-18 01:00:00",
+        "publish_date": "2018-07-06 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Total Dance Festival",
+            "address": "Budapest Park, Soroks\u00e1ri \u00fat 60",
+            "city": "Budapest",
+            "state": "",
+            "postal": "1095",
+            "country": "NL",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "47.4676",
+                "longitude": "19.0768"
+            }
+        },
+        "event": {
+            "title": "Total Dance Festival",
+            "description": "",
+            "website": "http:\/\/tdf.hu",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-08-14 10:48:00"
+    },
+    {
+        "gig_id": "511338",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-05-25 14:00:00",
+        "date_end": "2019-05-25 23:00:00",
+        "virtual_date_start": "2019-05-25 14:00:00",
+        "virtual_date_end": "2019-05-25 23:00:00",
+        "publish_date": "2018-09-14 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Vi Elsker 90'erne R\u00f8dovre",
+            "address": "Korsdalsvej 100",
+            "city": "Rodovre",
+            "state": "",
+            "postal": "2610",
+            "country": "DK",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "55.6759",
+                "longitude": "12.4329"
+            }
+        },
+        "event": {
+            "title": "Vi Elsker 90erne",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-13 11:10:00"
+    },
+    {
+        "gig_id": "535127",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-05-31 20:00:00",
+        "date_end": "2019-06-01 01:00:00",
+        "virtual_date_start": "2019-05-31 20:00:00",
+        "virtual_date_end": "2019-05-31 01:00:00",
+        "publish_date": "2018-06-02 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Stadion Za Luzankami",
+            "address": "Drobn\u00e9ho 571\/47",
+            "city": "Brno",
+            "state": "",
+            "postal": "602 00",
+            "country": "CZ",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "49.2116",
+                "longitude": "16.6126"
+            }
+        },
+        "event": {
+            "title": "90s Explosion",
+            "description": "",
+            "website": "https:\/\/90sexplosion.com\/",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-06-01 10:16:00"
+    },
+    {
+        "gig_id": "562361",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-06-01 14:00:00",
+        "date_end": "2019-06-01 23:00:00",
+        "virtual_date_start": "2019-06-01 14:00:00",
+        "virtual_date_end": "2019-06-01 23:00:00",
+        "publish_date": "2018-09-14 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Vi Elsker 90'erne Aarhus",
+            "address": "Observatorievejen 2",
+            "city": "Aarhus",
+            "state": "",
+            "postal": "8000",
+            "country": "DK",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "56.1288",
+                "longitude": "10.1948"
+            }
+        },
+        "event": {
+            "title": "Vi Elsker 90erne",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-13 11:10:00"
+    },
+    {
+        "gig_id": "541637",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-06-07 20:00:00",
+        "date_end": "2019-06-08 01:00:00",
+        "virtual_date_start": "2019-06-07 20:00:00",
+        "virtual_date_end": "2019-06-07 01:00:00",
+        "publish_date": "2018-06-28 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Butlins Bognor Regis",
+            "address": "Upper Bognor Road",
+            "city": "Bognor Regis",
+            "state": "",
+            "postal": "PO21 1JJ",
+            "country": "GB",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "50.7882",
+                "longitude": "-0.665838"
+            }
+        },
+        "event": {
+            "title": "90'S RELOADED",
+            "description": "",
+            "website": "http:\/\/www.bigweekends.com",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-07-30 10:14:00"
+    },
+    {
+        "gig_id": "535437",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-06-28 23:00:00",
+        "date_end": "2019-06-28 23:30:00",
+        "virtual_date_start": "2019-06-28 23:00:00",
+        "virtual_date_end": "2019-06-28 23:30:00",
+        "publish_date": "2018-06-07 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Feesttent",
+            "address": "Kasteelweg 12",
+            "city": "Mierlo",
+            "state": "Noord-Brabant",
+            "postal": "5731 PK",
+            "country": "NL",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.433",
+                "longitude": "5.62002"
+            }
+        },
+        "event": {
+            "title": "Live in de Wei! 90's",
+            "description": "",
+            "website": "http:\/\/www.liveindewei.nl",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-06-18 09:54:00"
+    },
+    {
+        "gig_id": "546823",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-07-05 22:00:00",
+        "date_end": "2019-07-05 23:59:00",
+        "virtual_date_start": "2019-07-05 22:00:00",
+        "virtual_date_end": "2019-07-05 23:59:00",
+        "publish_date": "2018-07-21 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Overdekt Podium",
+            "address": "Bouwlingstraat 83",
+            "city": "Oosterhout",
+            "state": "Noord-Brabant",
+            "postal": "4902 AH",
+            "country": "NL",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "51.6349",
+                "longitude": "4.85373"
+            }
+        },
+        "event": {
+            "title": "90's LIVE",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-08-23 09:21:00"
+    },
+    {
+        "gig_id": "511343",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-07-06 14:00:00",
+        "date_end": "2019-07-06 22:00:00",
+        "virtual_date_start": "2019-07-06 14:00:00",
+        "virtual_date_end": "2019-07-06 22:00:00",
+        "publish_date": "2018-09-14 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Vi Elsker 90'erne Stockholm",
+            "address": "",
+            "city": "Stockholm",
+            "state": "",
+            "postal": "",
+            "country": "SE",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "59.3293",
+                "longitude": "18.0686"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-19 10:35:00"
+    },
+    {
+        "gig_id": "562394",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-07-13 14:00:00",
+        "date_end": "2019-07-13 22:00:00",
+        "virtual_date_start": "2019-07-13 14:00:00",
+        "virtual_date_end": "2019-07-13 22:00:00",
+        "publish_date": "2018-09-14 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Vi Elsker 90'erne G\u00f6teborg",
+            "address": "",
+            "city": "G\u00f6teborg",
+            "state": "",
+            "postal": "",
+            "country": "SE",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "57.7089",
+                "longitude": "11.9746"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-13 11:49:00"
+    },
+    {
+        "gig_id": "562415",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-07-20 14:00:00",
+        "date_end": "2019-07-20 22:00:00",
+        "virtual_date_start": "2019-07-20 14:00:00",
+        "virtual_date_end": "2019-07-20 22:00:00",
+        "publish_date": "2018-09-14 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Pixlapiren",
+            "address": "Oceangatan 2",
+            "city": "Helsingborg",
+            "state": "",
+            "postal": "252 25",
+            "country": "SE",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "56.0381",
+                "longitude": "12.6933"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-13 11:56:00"
+    },
+    {
+        "gig_id": "562363",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-08-24 14:00:00",
+        "date_end": "2019-08-24 23:00:00",
+        "virtual_date_start": "2019-08-24 14:00:00",
+        "virtual_date_end": "2019-08-24 23:00:00",
+        "publish_date": "2018-09-14 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Vi Elsker 90'erne Odense",
+            "address": "Kongens Have Jernbanegade",
+            "city": "Odense",
+            "state": "",
+            "postal": "5000",
+            "country": "DK",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "55.3986",
+                "longitude": "10.3851"
+            }
+        },
+        "event": {
+            "title": "Vi Elsker 90erne",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-19 10:43:00"
+    },
+    {
+        "gig_id": "562393",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-08-31 14:00:00",
+        "date_end": "2019-08-31 23:00:00",
+        "virtual_date_start": "2019-08-31 14:00:00",
+        "virtual_date_end": "2019-08-31 23:00:00",
+        "publish_date": "2018-09-14 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Vi Elsker 90'erne Aalborg",
+            "address": "Molleparkvej",
+            "city": "Aalborg",
+            "state": "",
+            "postal": "9000",
+            "country": "DK",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "57.0381",
+                "longitude": "9.902"
+            }
+        },
+        "event": {
+            "title": "Vi Elsker 90erne",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-13 11:27:00"
+    },
+    {
+        "gig_id": "557293",
+        "schedule_id": "261",
+        "schedule_name": "Vengaboys",
+        "date_start": "2019-09-01 23:00:00",
+        "date_end": "2019-09-02 01:00:00",
+        "virtual_date_start": "2019-09-01 23:00:00",
+        "virtual_date_end": "2019-09-01 01:00:00",
+        "publish_date": "2018-08-31 12:00:00",
+        "status": "1",
+        "private": "0",
+        "venue": {
+            "name": "Cattows Farm",
+            "address": "Swepstone Rd\nSwepstone Rd",
+            "city": "Coalville",
+            "state": "",
+            "postal": "LE67 2RF",
+            "country": "GB",
+            "website": "",
+            "phone": "",
+            "geo": {
+                "status": "OK",
+                "provider": "geocoder",
+                "provider_id": "0",
+                "latitude": "52.6938",
+                "longitude": "-1.43714"
+            }
+        },
+        "event": {
+            "title": "",
+            "description": "",
+            "website": "",
+            "website_tickets": "",
+            "phone": "",
+            "facebook_id": null
+        },
+        "change_date": "2018-09-03 14:18:00"
+    }
+]
